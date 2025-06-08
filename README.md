@@ -18,10 +18,10 @@
 
 ### 元模型截图
 
-![Meta Model](imgs\metamodel.png)
+![Meta Model](imgs/metamodel.png)
 
 ### 插件测试截图
 
-![Test1](imgs\test1.png)
+![Test1](imgs/test1.png)
 
-![Test2](imgs\test2.png)
+![Test2](imgs/test2.png)
